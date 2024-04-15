@@ -1,0 +1,335 @@
+/*theam btn start */
+.theam_btn{
+	display:inline-block;
+	font-size: 16px;
+	text-align: center;
+	padding:15px 50px;
+	text-transform: uppercase;
+	font-weight: 500;
+	border-radius: 30px;
+	box-shadow: -2px 5px 25px -11px #000;
+}
+.theam_btn:hover{
+	color:#fff;
+}
+.btn2{
+	float: left;
+}
+.btn3 {
+    width: 128px;
+   	display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    font-weight: 500;
+}
+/*theam btn end */
+.theam_btn.btn2{
+	
+	border:none;
+}
+.theam_btn:hover,
+.theam_btn.btn2:hover{
+	background-color:#0d3264; 
+}
+.counter01_column  .theam_btn.btn2:hover,
+.join_party .theam_btn.btn2:hover,
+.top_email_field .theam_btn:hover, 
+.text_area .theam_btn.btn2:hover, 
+.nation_service_list .theam_btn.btn2:hover{
+	background-color:#fff;
+	color:#0d3264; 
+}
+.shadow{
+	box-shadow: 0px 0px 10px 2px #f0b3bd;
+}
+/*overlay start */
+.overlay{
+	position:relative;
+}
+.overlay:before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.6;
+}
+/*overlay end */
+
+.text_white{
+	color:#fff;
+}
+.custom_width{
+	width:1615px;
+}
+
+/*heading02 start*/
+
+.heading02{
+	float: left;
+	width: 100%;
+	padding-top: 84px;
+	margin-bottom: 48px;
+}
+.custom_size{
+	font-size: 45px;
+	line-height: 45px;
+}
+.custom_size span{
+	  display: block;
+	  padding:10px 0px;
+}
+.section_heading{
+	float: left;
+	width: 100%
+}
+.section_heading > span{
+	margin-bottom: 1px;
+	font-weight: 500;
+	position: relative;
+	display: inline-block;
+}
+.section_heading h2{
+	margin-bottom: 14px;
+}
+.heading_star{
+	display: inline-block;
+	position: relative;
+}
+.heading_star span:after,
+.heading_star span:before,
+.heading_star:after,
+.heading_star:before{
+	position: absolute;
+	content: "";
+	top:0px;
+	left: 0px;
+	right: 32px;
+	bottom: 11px;
+	border-bottom: 1px solid #fff;
+	width: 56px;
+}
+.heading_star span:before,
+.heading_star:before{
+	left: auto;
+}
+.heading_star span:after,
+.heading_star:after{
+	right: auto;
+	left: 32px;
+}
+.heading_star span:after,
+.heading_star span:before{
+	bottom: 7px;
+	width: 34px;
+}
+.heading_star span{
+	display: inline-block;
+}
+.text_center{
+	text-align: center;
+}
+.heading_star span:before,
+.heading_left .heading_star:before{
+	border-bottom: none;
+}
+.section_heading > p{
+	margin-bottom: 0px;
+}
+.brd_color span:before,
+.brd_color:before,
+.brd_color span:after,
+.brd_color:after{
+	border-color:#0d3264;
+}
+.block-bdr span:before{
+	border-bottom: 1px solid;
+}
+/*section heading end*/
+.margin30{
+	margin-bottom: 28px;
+}
+.margin45{
+	margin-bottom: 42px;
+}
+.margin0{
+	margin-bottom: 0px !important;
+}
+.box-shadow{
+	box-shadow: 0px 0px 5px 1px #0c2049;
+}
+.margin_top{
+	margin-top:35px;
+}
+.margin16{
+	margin-bottom: 15px;
+}
+.padding_top{
+	padding-top: 60px;
+}
+.margin60{
+	margin-top:60px;
+}
+/*field btn*/
+.field_btn{
+	display: inline-block;
+	font-size: 16px;
+	height: 48px;
+	font-weight: 500;
+	line-height: 48px;
+	width: 140px;
+	text-align: center;
+	padding: 0px 0px;
+	position: relative;
+	top: 1px;
+}
+.padding0{
+	padding-top:0px;
+}
+.pdg0{
+	padding: 0px 0px;
+	border-bottom: none;
+}
+
+/*
+    ============================================================
+       BUTTON EFFECT
+    ============================================================
+*/
+.wave1, 
+.wave2{
+  z-index: 12;
+  left: 0;
+  bottom: 0;
+  color: #fff;
+  position: relative;
+  text-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+  background-position-y: bottom !important;
+}
+.wave2:before{
+  position: absolute;
+  content: "";
+  top:0px;
+  left:0px;
+  right: 0px;
+  bottom: 0px;
+  background: #27a7df;
+  opacity: 0.90;
+  z-index: -1;
+
+}
+.wave1 {
+  -webkit-animation: wave-animation1 8.7s infinite linear; /* Safari 4+ */
+  -moz-animation:    wave-animation1 8.7s infinite linear; /* Fx 5+ */
+  -o-animation:      wave-animation1 8.7s infinite linear; /* Opera 12+ */
+  animation:         wave-animation1 8.7s infinite linear; /* IE 10+ */
+}
+.wave2 {
+  -webkit-animation: wave-animation1 6.3s infinite linear; /* Safari 4+ */
+  -moz-animation:    wave-animation1 6.3s infinite linear; /* Fx 5+ */
+  -o-animation:      wave-animation1 6.3s infinite linear; /* Opera 12+ */
+  animation:         wave-animation1 6.3s infinite linear; /* IE 10+ */
+}
+
+@-webkit-keyframes wave-animation1 {
+  0%   { background-position-x: 0; }
+  100% { background-position-x: 1601px; }
+}
+@-moz-keyframes wave-animation1 {
+  0%   { background-position-x:0; }
+  100% { background-position-x: 1601px; }
+}
+@-o-keyframes wave-animation1 {
+  0%   { background-position-x: 0; }
+  100% { background-position-x: 1601px; }
+}
+@keyframes wave-animation1 {
+  0%   { background-position-x: 0; }
+  100% {background-position-x: 1601px;}
+}
+
+.wave1 {
+    background: url('../images/wave1.html') 0 0 repeat-x;
+}
+.wave2 {
+    background: url('../images/wave2.html') 0 0 repeat-x;
+}
+.main_banner .slick-prev,
+.main_banner .slick-next{
+	display: none !important;
+}	
+
+
+/*pagination list start*/
+.pagination_list{
+	float:left;
+	width:100%;
+}
+.pagination_list{
+	text-align:center;
+	margin-top:30px;
+}
+.pagination_list > a{
+	display:inline-block;
+	width:110px;
+	height:58px;
+	font-size:17px;
+	text-align:center;
+	line-height:58px;
+	font-weight: 500;
+	box-shadow:0px 2px 8px 1px #dedede;
+	color: #fff;
+}
+.pagination_list > a:hover{
+  color:#fff;
+}
+.Prev_btn i{
+	margin-right:8px;
+}
+.next_btn i{
+	margin-left:8px;
+}
+.pagination{
+	overflow:hidden;
+	display:inline-flex;
+	background-color:#fff;
+	box-shadow:0px 2px 8px 1px #dedede;
+	margin:0px 10px;
+	padding:0px 15px;
+	position: relative;
+	top: 24px;
+}
+.pagination li{
+	float:left;
+	width:auto;
+}
+.pagination li a{
+	display:inline-block;
+	font-size:16px;
+	padding:18px 15px;
+	position:relative;
+	border: none;
+	font-weight: 600;
+}
+
+.pagination li a:hover{
+	background:none;
+}
+.pagination li a:before{
+	position:absolute;
+	content:"";
+	top:auto;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	height:4px;
+	width:0px;
+	height: 4px;
+}
+.pagination_list a:hover:before,
+.pagination li a:hover:before{
+  width:100%;
+}

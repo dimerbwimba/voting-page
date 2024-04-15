@@ -1,0 +1,1088 @@
+/*
+=================================================
+				UP FROM 1200PX
+=================================================
+*/ 
+@media (max-width: 1366px){
+	.header01{
+		padding:20px 20px;
+	}
+	.city_event_wrap .slick-list.draggable {
+	    padding: 0px 100px !important;
+	}
+	.custom_width {
+	  width: 100%;
+	}
+	.header01 .navigation li {
+		margin-right: 15px;
+	}
+	.theam_btn{
+		padding: 15px 20px;
+	}
+	.social {
+		margin-right: 25px;
+	}
+	.banner_text{
+		margin:-240px 0px 0px -580px;
+	}
+	.custom_width{
+		width:100%;
+	}
+	.social_share{
+		left: 0px;
+	}
+	.donate_service_wrap {
+		margin-top: -110px;
+	}
+	.banner_text.right-text{
+		left:auto;
+	}
+	.city_widget .container {
+	  width: 100%;
+	  padding: 0px 30px;
+	}
+	body.active .wraper-demo {
+	  margin-right: 225px;
+	  width: 100%;
+	  width: calc(100% - 285px);
+	}
+	.sidebar{
+		width: 310px;
+	}
+	.sidebar-menu-title{
+		padding-top: 50px;
+	}
+}
+/*
+=================================================
+			FROM 992PX TO 1199PX
+=================================================
+*/ 
+@media (min-width: 992px) and (max-width: 1199px) {
+	.top_email_field input{
+		width:322px;
+	}
+	.event_detail .container, .blog_list_wrap .container {
+	  width: 100%;
+	}
+	.small_text{
+		margin-bottom: 14px;
+	}
+	.top_title {
+		font-size: 77px;
+		line-height: 70px;
+	}
+	.main_header .social_share{
+		display:none;
+	}
+	.nation_service_text{
+		padding: 0px 20px;
+	}
+	.donate_service_wrap {
+		margin-top: 50px;
+	}
+	.banner_text{
+		margin: -160px 0px 0px -460px;
+	}
+	.custom_size{
+		font-size: 38px;
+		line-height: 30px;
+	}
+	.nation_service_text h5{
+		font-size: 16px;
+	}
+	.play_btn02{
+		left: 155px;
+	}
+	.gallery_text h4{
+		font-size: 18px;
+	}
+	.contact_field{
+		width:100%;
+	}
+	.contact_form{
+		padding:85px 25px 90px;
+	}
+	.support_wrap{
+		background-size: 50% 100%;
+	}
+	.custom_size2{
+		font-size: 36px;
+	}
+	.news_form_text .top_email_field input {
+		width: 212px;
+	}
+	.news_form_text .top_email_field input.zip {
+		width: 106px;
+	}
+	.news_demo {
+		padding: 7px 15px 25px;
+	}
+	.news_form_text h2{
+		font-size:18px;
+	}
+	.news_demo a{
+		font-size:12px;
+	}
+	/**/
+	.header01 .navigation{
+		display:none;
+	}
+	.header01 .dl-menuwrapper {
+		display: block;
+		margin: 18px 0px;
+	}
+	.dl-menuwrapper .dl-menu{
+		background-color:#333;
+		right:100%;
+		z-index:1;
+	}
+	.politic_law_text h2{
+		font-size:45px;
+	}
+	/**/
+	.top_info_list li:nth-child(2){
+		display:none;
+	}
+	.header02 .navigation li{
+		margin-right: 20px;
+	}
+	/**/
+	.header04 .text_link li{
+		padding: 0px 14px;
+	}
+	/**/
+	.btn_contribute{
+		padding: 22px 25px 23px;
+	}
+	.header04 .navigation li {
+	  margin-right: 26px;
+	}
+	.text_link{
+		display: none;
+	}
+	.counter01_column .theam_btn {
+ 	 width: 70%;
+	}
+	.counter01_column h3{
+		padding: 0px 20px;
+		font-size: 28px;
+		margin-bottom: 40px;
+	}
+	.counter01_column h3::before{
+		bottom: -16px;
+	}
+	.donate_list li a{
+		width: 74px;
+		height: 50px;
+		line-height: 43px;
+	}
+	.donate_list li {
+	  margin-right: 20px;
+	}
+	.biography_row{
+		padding: 0px 10px;
+	}
+	.biography_text.text-bottom{
+		padding: 51px 0px 0px;
+	}
+	.biography_text.text-bottom {
+ 	 top: 226px;
+	}
+	.categories_row{
+		width:100%;
+	}
+	.categories_row li{
+		padding: 0px 20px;
+	}
+	.project_energy_text{
+		padding: 80px 0px 0px 20px;
+	}
+	.project_power_effect .project_causes_service{
+		padding: 20px 0px 0px 40px;
+	}
+	.login_row{
+		width:100%;
+	}
+}
+/*
+=================================================
+			FROM 0PX TO 979PX
+=================================================
+*/ 
+@media (max-width: 991px) {
+	.right_content,
+	.main_header .social_share{
+		display:none;
+	}
+	.top_email_field input{
+		width: 192px;
+	}
+	.event_detail .container, .blog_list_wrap .container {
+	  width: 100%;
+	}
+	.top_email_field input.zip {
+		width: 122px;
+	}
+	.donate_service_wrap {
+		margin-top: 40px;
+	}
+	.banner_text {
+		margin: -160px 0px 0px -340px;
+	}
+	.top_title{
+		display:none;
+	}
+	.donate_service_text {
+		padding: 32px 18px;
+	}
+	.service_wrap .heading02{
+		margin-top:0px;
+	}
+	.nation_service_list {
+		padding: 75px 0px 290px 0px;
+	}
+	.nation_service_wrap:before{
+		background-image:none;
+	}
+	.nation_service_wrap::after{
+		width:100%;
+	}
+	.play_btn.play_btn02.theme_color{
+		display:none;
+	}
+	.support_wrap{
+		background-image:none;
+	}
+	.custom_size2{
+		font-size: 22px;
+	}
+	.support_text {
+		padding: 76px 0px;
+	}
+	.news_row{
+		text-align:center;
+	}
+	.news_row .section_heading{
+		width:100%;
+		position:relative;
+		z-index:2;
+	}
+	.contact_field,
+	.top_email_field,
+	.social_list{
+		width:100%;
+	}
+	.social_list ul li{
+		float:none;
+		display:inline;
+	}
+	.news_fig{
+		margin-bottom:30px;
+	}
+	.news_form_text{
+		text-align:center;
+	}
+	.contact_field{
+		padding:0px 20px;
+	}
+	.news_form_text h2{
+		font-size:30px;
+	}
+	.contact_info_list:before{
+		left: -10px;
+		width: 320px;
+	}
+	.contact_form{
+		padding: 20px 0px 20px;
+	}
+	.widget_link ul li{
+		margin-right: 15px;
+	}
+	.nation_service_wrap .theam_btn.btn2{
+		width:100%;
+	}
+
+	/**/
+	.header01 .navigation{
+		display:none;
+	}
+	.header01 .dl-menuwrapper {
+		display: block;
+		margin: 18px 0px;
+	}
+	.dl-menuwrapper .dl-menu{
+		background-color:#333;
+		right:100%;
+		z-index:1;
+	}
+	.politic_law_text h2{
+		font-size:45px;
+	}
+	.drop_list{
+		display:none;
+	}
+	.politic_info{
+		margin-bottom:50px;
+	}
+	.politic_law_text {
+		margin-bottom: 20px;
+	}
+	.politic_law_wrap .donate_service_wrap .col-md-4 {
+		padding: 0px 8px;
+	}
+	/**/
+	.header02 .top_info_list li:nth-child(2){
+		display:none;
+	}
+	.header02 .navigation li{
+		margin-right: 10px;
+	}
+	.header02 .top_info_list li{
+		padding: 0px 9px;
+	}
+	.header02 .logo {
+		margin-right: 0px;
+	}
+	.header02 .top_content_wrap .theam_btn{
+		padding: 15px 20px;
+	}
+	/**/
+	.donate_btn,
+	.header04 .text_link{
+		display:none;
+	}
+	.header04 .navigation{
+		padding-right: 0px;
+	}
+	.header04 .top02_row{
+		padding-right: 0px;
+	}
+	.header04 .navigation li {
+		margin-right: 11px;
+	}
+	/**/
+	.top_main_content .top_info_list li:last-child,
+	.topbar_text li:last-child{
+		display:none;
+	}
+	.topbar_text li{
+		margin-right: 10px;
+	}
+	.header03 .navigation ul li {
+		margin-right: 15px;
+	}
+	.header03 .navigation_wrap {
+		padding: 0px 0px 0px 15px;
+	}
+	.btn_contribute {
+		padding: 24px 25px 25px;
+		font-size: 13px;
+	}
+	.navigation_wrap{
+		padding: 0px 20px 0px 20px;
+	}
+	.Login_list li {
+	  margin-right: 13px;
+	}
+	.counter01_column,
+	.donate_service_text{
+		margin-bottom: 20px;
+	}
+	.biography_text.text-bottom{
+		display: none;
+	}
+	.biography_row{
+		margin-bottom: 50px;
+	}
+	.city_event_wrap .slick-list.draggable{
+		padding: 0px 210px !important;
+	}
+	.top_info_caption a{
+		font-size: 13px;
+	}
+	.about01_experiance_text {
+	  padding-left: 0px;
+	  padding-top: 20px;
+	}
+	.team_text, .team_fig{
+		width:100%;
+	}
+	.team_fig .social_share{
+		text-align: center;
+		margin:0px auto;
+		width: 100%;
+	}
+	.event_text{
+		padding: 14px 30px 30px 41px;
+	}
+	.event_text .btn2 {
+  position: relative;
+  top: 0px;
+  right: 30px;
+  margin-top: 14px;
+}
+.event_counter_wrap .timer_text .countdown li{
+	margin-bottom: 20px;
+}
+.event_detail_text,
+.event_tabs_row figure{
+	width:100%;
+}
+.event_detail_info{
+	width: 90%;
+	margin-top: 30px;
+}
+.categories_row{
+	width:100%;
+}
+.categories_row li:last-child{
+	display: none;
+}
+.categories_row li{
+	padding: 0px 30px;
+}
+.project_power_effect figure,
+.project_energy_fig figure {
+  width: 100%;
+}
+.project_energy_text {
+  overflow: hidden;
+  padding: 40px 0px 0px 10px;
+}
+.project_grid_fig,
+.project_power_list {
+  margin-bottom: 50px;
+}
+.project_power_effect .project_causes_service{
+	padding: 20px 0px 0px 10px;
+}
+.donation_row{
+	width:100%;
+}
+.donate_list li {
+  margin-right: 10px;
+}
+.donation_row .donate_list li a{
+  width: 116px;
+}
+.donation_form .contact_form_coulmn input{
+	width: 48%;
+}
+.team_fig .social_share{
+	width: 100%;
+	margin:0px auto;
+	text-align: center;
+}
+.team_fig .social_share li{
+	display: inline-block;
+	float: none;
+}
+.contact_us_row{
+	display: inline-block;
+}
+.contact_form_coulmn{
+	margin-bottom: 40px;
+}
+.main_header .navigation li {
+  margin-right: 20px;
+}
+}
+/*
+=================================================
+			FROM 768PX TO 979PX
+=================================================
+*/
+
+@media (min-width: 768px) and (max-width: 979px) {	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 767PX
+=================================================
+*/
+@media (max-width: 767px){
+	.top_logo{
+		text-align:center;
+	}
+
+	.login_row{
+		margin: auto 0px 40px;
+		width:100%;
+	}
+	.main_header .navigation li {
+	  margin-right: 20px;
+	}
+	.event_sponsor,
+	.event_counter_wrap .timer_text{
+		width:100%;
+		margin-bottom: 30px;
+	}
+	.blog_list_row {
+ 	 padding: 80px 40px;
+	}
+	.section_heading h2 {
+	  font-size: 28px;
+	}
+	.top_email_field button{
+		padding: 12px 24px;
+	}
+	.navigation{
+		display:none;
+	}
+	.dl-menuwrapper{
+		display:block;
+		margin: 13px 0px;
+	}
+	.dl-menuwrapper .dl-menu{
+		background-color:#333;
+		right:100%;
+		z-index:1;
+	}
+	.Login_list{
+		float:left;
+	}
+	.navigation_wrap{
+		padding: 0px 30px 0px 30px;
+	}
+	.top_logo h1{
+		margin-bottom:0px;
+	}
+	.top_info_text{
+		padding: 24px 0px 40px;
+	}
+	.mediume_text,
+	.small_text,
+	.mediume_text{
+		display:none;
+	}
+	.large_text{
+		font-size: 30px;
+		margin-bottom:0px;
+	}
+	.banner_text {
+		margin: -50px 0px 0px -220px;
+	}
+	.top_email_field input {
+		width: 186px;
+	}
+	.top_email_field{
+		text-align:center;
+	}
+	.top_email_field button{
+		float:none;
+	}
+	.donate_service_text{
+		margin-bottom:20px;
+	}
+	.donate_service_text:hover {
+		margin-top: 0px;
+	}
+	.service_wrap .heading02{
+		text-align:center;
+	}
+	.service_text {
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.timer_list {
+		padding: 65px 0px 70px 20px;
+	}
+	.support_fig figure{
+		width:100%;
+	}
+	.support_text{
+		text-align:center;
+	}
+	.support_text .btn2{
+		float:none;
+	}
+	.news_form_text .top_email_field input {
+		width: 192px;
+	}
+	.news_form_text .top_email_field input.zip {
+		width: 124px;
+	}
+	.contact_form,
+	.map_list{
+		width:100%;
+	}
+	.custom_size {
+		font-size: 35px;
+		line-height: 30px;
+	}
+	.widget_link ul li{
+		margin-bottom:10px;
+	}
+	.donate_service_wrap {
+		position: relative;
+		z-index: -1;
+	}
+	/**/
+	.text_link{
+		display:none;
+	}
+	.header01 .logo{
+		margin-right:20px;
+	}
+	.header01 .social {
+		margin-right: 18px;
+	}
+	.support_text {
+		padding: 50px 0px;
+	}
+	.politic_law_wrap{
+		padding: 70px 0px 100px;
+	}
+	.left_content {
+		float: left;
+		width: 100%;
+	}
+	/**/
+	.header02 .top_info_list{
+		display:none;
+	}
+	.header02 .top_content_wrap {
+		padding: 10px 0px;
+		width: auto;
+		float: right;
+	}
+	.navigation_02 .social_share{
+		float:left;
+	}
+	.gallery_fig figure{
+		margin-bottom:20px;
+	}
+	.gallery_fig.padding_top {
+		padding-top: 0px;
+	}
+/**/
+
+	.header03 .logo {
+		width: 35%;
+		padding: 10px 0px 10px;
+	}
+	.header03 .top_info_list,
+	.header03 .topbar_text{
+		display:none;
+	}
+	.header03 .topbar_content::after, .header03 .topbar_content::before{
+		position:relative;
+	}
+	.header03 .top_main_content {
+		width: 58%;
+	}
+	.header03 .topbar_icon{
+		padding:12px 52px;
+	}
+	.header03 .topbar_content{
+		padding: 19px 0px;
+	}
+	.btn_contribute {
+		padding: 25px 25px 23px;
+		float: left;
+	}
+	.politic_law_wrap{
+		z-index:-1;
+	}
+	.top02_info,
+	.top02_right_content{
+		width:100%;
+		text-align: center;
+	}
+	.top02_right_content .social_share{
+		margin-top: 10px;
+		width:100%;
+		float: none;
+	}
+	.top02_info li,
+	.social_share li{
+		float: none;
+		display: inline-block;
+	}
+	.donate01_wrap{
+		width:100%;
+		padding: 0px 10px;
+	}
+	.donate_list li a{
+		width:74px;
+	}
+	.community_column{
+		display: inline-block;
+	}
+	.biography_row{
+		padding: 0px 10px;
+	}
+	.join_party{
+		padding:50px 20px !important; 
+	}
+	.city_event_wrap .slick-list.draggable {
+	  padding: 0px 37px !important;
+	}
+	.event_text .btn2 {
+	  position: relative;
+	  top: 0px;
+	  right: 30px;
+	  margin-top: 14px;
+	}
+	.event_fig figure{
+		width:100%;
+	}
+	.event_text {
+	  padding: 14px 30px 30px 31px;
+	}
+	.event_text .btn2{
+		right: 0px;
+	}
+	.categories_row li{
+		border-right: none;
+		margin-bottom: 30px;
+	}
+	.categories_row li:last-child{
+		display: block;
+	}
+	.donation_row {
+	  width: 100%;
+	}
+	.donation_form .contact_form_coulmn input {
+	  width: 100%;
+	}
+	.donation_row .donate_list li a {
+	  width: 75px;
+	}
+	.donation_row{
+		padding: 50px 20px;
+	}
+	.donation_form .contact_form_coulmn input{
+		margin-right: 0px;
+	}
+	.progress_detail_skill{
+		padding-left: 10px;
+	}
+	.progressbar .bar{
+		width: 280px !important;
+	}
+
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (min-width: 360px) and (max-width: 640px) {
+	
+  
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 481px) {
+	
+}
+/*
+=================================================
+			FROM 0PX TO 0PX
+=================================================
+*/
+@media (max-width: 480px) {
+	.top_email_field input {
+		width: 100%;
+		margin-bottom: 16px;
+	}
+	.top_info_text {
+		padding: 24px 0px 20px;
+	}
+	.navigation_wrap {
+		padding: 0px 20px 0px 20px;
+	}
+	.service_wrap .heading02{
+		padding:0px 0px;
+	}
+	.timer_text,
+	.timer_text .countdown{
+		text-align:center;
+	}
+	.timer_text .countdown li{
+		display:inline-block;
+		float:none;
+		margin:0px 5px 10px 5px;
+	}
+	.support_text {
+		padding: 36px 0px;
+	}
+	.section_heading h2{
+		font-size:26px;
+	}
+	.news_fig_text h2{
+		font-size:20px;
+	}
+	.meta_list li:last-child{
+		display:none;
+	}
+	.news_form_text .top_email_field input{
+		width:100%;
+	}
+	.contact_info_list:before {
+		left: 8px;
+		width: 297px;
+	}
+	.contact_info_list{
+		width: 300px;
+	}
+	.main_banner .slick-slide img{
+		height: 210px;
+	}
+	.banner_text {
+	  margin: -50px 0px 0px -160px;
+	}
+	.custom_size {
+		font-size: 25px;
+		line-height: 20px;
+	}
+	.social_list li a::before{
+		border:none;
+	}
+	.social_list li {
+		margin-left: 10px;
+	}
+	.social_list{
+		padding: 16px 0px;
+	}
+	.widget_link{
+		margin-bottom: 50px;
+	}
+	/**/
+	
+	.politic_law_text h2 {
+		font-size: 25px;
+		line-height: normal;
+	}
+	.politic_contact_list{
+		text-align:center;
+	}
+	.politic_contact_text{
+		float: left;
+		width: 100%;
+		margin-bottom: 20px;
+		text-align:center;
+	}
+	.politic_info .theam_btn{
+		float:none;
+	}
+	.politic_law_wrap {
+		padding: 70px 0px 39px;
+	}
+	/**/
+	.top_content_wrap{
+		display:none;
+	}
+	.header02 .logo {
+		margin-right: 0px;
+		width: 100%;
+		text-align: center;
+	}
+	/**/
+	.header03 .logo {
+		width: 100%;
+		text-align: center;
+	}
+	.header03 .top_main_content{
+		display:none;
+	}
+	.politic_law_wrap{
+		z-index:-1;
+	}
+	.timer_text .countdown li{
+		width: 100%;
+	}
+	.timer_text .countdown{
+		width: 100%;
+	}
+	.counter01_column h3{
+		font-size: 20px;
+	}
+	.counter01_column h2{
+		font-size: 40px;
+	}
+	.counter01_column .theam_btn{
+		width: 90%;
+	}
+	.donate_list li a, .donate_list {
+	  display: flex;
+	  flex-wrap: wrap;
+	  flex-direction: column;
+	  width: 100%;
+	  padding: 0px 40px;
+	}
+	.donate_list li {
+	  margin-right: 0px;
+	  margin-bottom: 10px;
+	}
+	.donate_list li a{
+		text-align: center;
+	}
+	.community_column span{
+		width: 45px;
+		display: inline-block;
+		margin-bottom: 20px;
+	}
+	.community_column{
+		text-align: center;
+	}
+	.biography_row{
+		width:100%;
+		flex-direction: column;
+	}
+	.biography_text::before {
+		height: 0px;
+	}
+	.circle{
+		display: none;
+	}
+	.biography_text.text-bottom {
+	  display: block;
+	  top: 0px;
+	  padding: 0px 0px;
+	  text-align: center;
+	  margin-bottom: 50px;
+}
+.join_party{
+	flex-direction: column;
+}
+.join_party h4{
+	margin-bottom: 15px;
+}
+.join_party{
+	text-align: center;
+}
+.contact_link,
+.about01_experiance_text h2{
+	font-size: 22px;
+}
+.about01_contact_call {
+  padding-left: 10px;
+}
+.event_colume_text > h4{
+	font-size: 18px;
+}
+.event_colume_text {
+  padding: 0px 20px 30px;
+}
+.event_list li a{
+	font-size: 14px;
+}
+.pagination{
+	top: 0px;
+}
+.pagination li a{
+	font-size: 10px;
+}
+.event_location_info li{
+  float: left;
+  width: 100%;
+}
+.event_text .btn2 {
+  position: relative;
+  top: 0px;
+  right: 30px;
+  margin-top: 14px;
+}
+.custom_size01{
+	font-size: 34px;
+}
+.detail_tags .social_list {
+  padding: 20px 0px 0px;
+  text-align: left;
+  width: 100%;
+}
+.detail_tags .social_share{
+	width:100%;
+}
+.blog_comments {
+  padding: 50px 15px 50px 25px;
+  }
+  .comment_fig figure {
+  width: 100%;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+.comment_text h5 span{
+	margin-left: 0px;
+}
+ .comment_list ul {
+  padding-left: 0px;
+}
+.comment_text{
+ padding: 0px 0px 0px 2px;	
+}
+.post_area, .post_field{
+	width:100%;
+}
+.post_fig figure {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.post_text{
+	padding: 0px 0px 0px 10px;
+}
+.project_power_list ul li{
+	width:100%;
+}
+.project_causes_service > h3,
+.project_energy_text h3,
+.project_detail_text h3{
+	font-size: 25px;
+}
+.power_fig {
+  padding: 0px 6px 0px 0px;
+}
+.donation_row .donate_list li a, 
+.donation_row  .donate_list{
+	padding: 20px 0px;
+	width: 100%;
+}
+.progressbar .bar{
+		width: 180px !important;
+	}
+	.personal_information h3 {
+  font-size: 24px;
+}
+.contact_form_detail.personal_information{
+	margin-top: 40px;
+}
+.contact_form_socail li{
+	display: inline-block;
+}
+.team_detail_wrap{
+	padding: 100px 0px 40px;
+}
+.contact_form_socail {
+  text-align: center;
+}
+.video_list{
+	display: none;
+}
+.event_detail_info,
+.event_deta_colume .event_date{
+	width:100%;
+}
+.event_deta_caption {
+  overflow: hidden;
+  padding: 21px 0px 0px 5px;
+}
+.right {
+  float: right;
+  font-size: 14px;
+}
+.google_share li {
+  width: 100%;
+  margin-bottom: 10px;
+}
+}
+@media (max-width: 320px){
+	
+}
+

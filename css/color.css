@@ -1,0 +1,333 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.login_row a,
+.city_event_meta_list li a:hover,
+.widget_btn,
+.city_wideget_links li a:hover,
+.client2_colume > p:before,
+.client2_colume > h6,
+.contact_socail_text h5 a:hover,
+.contact_link:hover,
+.blog_social_meta li a:before,
+.top_info_caption a:hover,
+.top_email_field a:hover,
+.menu_btn:hover,
+.drop_list .list li:hover,
+.event_tabs_link li.active a,
+.event_tabs_list li a:hover,
+.event_list li a:hover,
+.blog_post_text a:hover,
+.blog_post_prev > a:hover,
+.tags_list span a:hover,
+.process_link li a:hover,
+.process_link li a:before,
+.blog_text blockquote:after,
+.video_btn2:hover,
+.categories_list ul li a:hover,
+.blog_social_meta li a:hover,
+.blog_meta > a:hover,
+.play_btn02:hover,
+.social_list li.active a,
+.widget_link ul li a:hover,
+.info_text a:hover,
+.meta_list li a:hover,
+.social_list li a:hover:before,
+.social_list li a:hover,
+.service_text:hover h4,
+.Login_list li a:hover,
+.navigation li a:hover,
+.top_info_text a:hover{
+	color:#d52845;
+}
+
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+.dl-menuwrapper li a:hover,
+.login_search button:hover,
+.city_event_item:hover .city_event_text .plus_btn_icon,
+.city_event_grid_text span,
+.navigation li ul li a:hover,
+.city_client2_wrap .slick-dots li,
+.client2_colume figure,
+.contact_form_socail li:hover span,
+.join_party,
+.biography_text:before,
+.circle,
+.community_column span,
+.counter01_column.bg-red:before,
+.about01_fig:before,
+.about01_experiance,
+.city_info_text a.call_info,
+.city_info_text,
+.donate_btn,
+.btn_contribute,
+.topbar_icon:before,
+.navigation_02,
+.timer_text .countdown li,
+.social li a:hover,
+.event_tabs_list li a:before,
+.event_counter_wrap .timer_text.overlay:before,
+.event_speaker_fig:hover .overlay:before,
+.event_speaker .slick-dots li,
+.event_location_list:hover .event_share .btn2,
+.event_date,
+.event_fig:hover .event_text .btn2,
+.comment_fig:hover .comment_text a,
+.post_submit button:hover:before,
+.blog_fig .slick-prev, 
+.blog_fig  .slick-next,
+.blog_fig  .play_btn02,
+.ui-datepicker-calendar tbody tr:nth-child(2),
+.video_btn,
+.post_btn li.active a,
+.widget_field .search_btn,
+.pagination li a:before,
+.pagination_list > a,
+.contact_form_wrap,
+.alert_btn,
+.plus_btn,
+.nation_service_fig:before,
+.service_text:hover span,
+.donate_service_text,
+.play_btn:hover:before,
+.city_payment_check input[type=checkbox]:checked + label:before{
+	background-color:#d52845;
+}
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+.city_widget_title:before,
+.city_widget_title,
+.city_event_grid figure,
+.navigation li:hover ul,
+.header01,
+.project_power_text h4:before,
+.event_tabs_link li a:before,
+.comment_fig:hover .comment_text a,
+.widget_field input:focus,
+.social_list li.active a:before,
+.main_header,
+.social_list li a:hover:before,
+.social_list li a:hover:before,
+.nation_service_fig,
+.top_email_field input:focus{
+	border-color:#d52845;
+}
+
+
+
+
+
+
+       /* COLOR STYEL 02 START */
+
+
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.donate_btn:hover,
+.personal_information h3,
+.navigation li ul li a:hover,
+.header02 .navigation li a:hover,
+.social li a,
+.right_content .Login_list li a:hover,
+.gallery_text > a,
+.gallery_text h4,
+.more_btn:hover,
+.click{
+	color:#0d3264;
+}
+
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+.community_column:hover span,
+.wraper .header03 .navigation li ul li a:hover,
+.label,
+.contact_form_socail li span,
+.join_party .theam_btn,
+.biography_wrap:before,
+.donate_list li a:hover,
+.counter01_column.bg-red .theam_btn,
+.counter01_column:before,
+ .counter01_column,
+.top02_wrap,
+.header03 .navigation_wrap,
+.topbar_content:after,
+.topbar_content:before,
+.event_sponsor,
+.event_counter_wrap .timer_text .countdown li,
+.event_speaker .slick-dots li.slick-active button,
+.share_btn,
+.join_form input,
+.sidebar_datepicker .ui-widget-content,
+.latest_video_fig .overlay:before,
+.latest_video .overlay:before,
+.footer_widget,
+.news_form_text,
+.alert_btn:hover,
+.nation_service_wrap:after,
+.service_text span,
+.donate_service_text.active,
+.donate_service_text:hover,
+.main_header{
+	background-color:#0d3264;
+}
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+.donate_list li a:hover,
+.share_btn:before,
+.service_fig:before,
+.city_payment_btn a:hover{
+	border-color:#0d3264;
+}
+
+
+
+
+
+
+
+/*
+	  ============================================================
+		   Trandition Color
+	  ============================================================
+*/
+.dl-menuwrapper li a,
+.login_search button,
+.donate_btn,
+.plus_btn_icon,
+.theam_btn,
+.theam_btn.btn2,
+.city_event_meta_list li a,
+.city_wideget_links li a,
+.community_column span,
+.contact_socail_text h5 a,
+.contact_form_socail li span,
+.team_fig figure:before,
+.team_fig .social_share,
+.donate_list li a,
+.contact_link,
+.navigation li ul li a,
+.navigation li > ul,
+.header02 .navigation li a,
+.top_info_caption a,
+.top_email_field a,
+.social li a,
+.menu_btn,
+.drop_list .list li,
+.event_tabs_link li a:before,
+.event_tabs_list li a,
+.event_speaker_fig .social_share,
+.event_speaker_fig .overlay:before,
+.event_speaker .slick-dots li.slick-active button,
+.event_location_list,
+.event_share .btn2,
+.event_list,
+.event_colume,
+.event_list,
+.event_find_more,
+.event_list li a,
+ .event_text .btn2,
+.post_area textarea:focus,
+.post_field input:focus,
+.comment_text a,
+.post_submit button,
+.post_submit button:before,
+.blog_post_text a,
+.blog_post_prev > a,
+.tags_list span a,
+.process_link li a,
+.video_btn2,
+.categories_list ul li a,
+.post_btn li.active a,
+.widget_field input:focus,
+.pagination li a::before,
+.blog_fig,
+.blog_social_meta li a,
+.blog_meta > a,
+.right_content .Login_list li a,
+.top_content,
+.play_btn02,
+.widget_link ul li a,
+.info_text a,
+.alert_btn,
+.meta_list li a,
+.social_list li a,
+.gallery_text,
+.nation_service_fig:before,
+.nation_service_text h5,
+.nation_service_text span,
+.nation_service_fig .overlay:before,
+.service_text h4,
+.service_text span,
+.donate_service_text,
+.Login_list li a,
+.navigation li a,
+.more_btn,
+.play_btn,
+.play_btn:before,
+.social_share li a:before,
+.top_email_field input:focus,
+.top_info_text a{
+	-webkit-transition:all 0.5s ease-in-out;
+		-moz-transition:all 0.5s ease-in-out;
+			-ms-transition:all 0.5s ease-in-out;
+				-o-transition:all 0.5s ease-in-out;
+				transition:all 0.5s ease-in-out;
+} 
+.click{
+	-webkit-transition:all 0.6s ease-in-out;
+		-moz-transition:all 0.6s ease-in-out;
+			-ms-transition:all 0.6s ease-in-out;
+				-o-transition:all 0.6s ease-in-out;
+				transition:all 0.6s ease-in-out;
+}
+.color{
+	color:#df193a;
+}
+.theme_color{
+	color:#d52845;
+}
+.theme_color2{
+	color:#0d3264;
+}
+.bg_color{
+	background-color:#d52845;
+}
+.bg_color2{
+	background-color:#0d3264;
+}
+.dark_color{
+	color:#666666;
+}
+.bg-blue{
+	background-color: #19c1ff;
+}
+.bg-blue-dark{
+	background-color: #3d68b6;
+}
+.bg_color3{
+	background-color: #d52845;
+}
+.bg_color4{
+	background-color: #245d9b;
+}
+.bg_color5{
+	background-color: #d52845;
+}
